@@ -9,7 +9,7 @@ Original file is located at
 
 ##########################사용자 다운로드 폴더 주소 입력###########################
 
-usersdownload_path = 'C:/Users/insung/Downloads/'
+usersdownload_path = 'C:/Users/01039499766/Downloads/'
 
 #############################################################################
 
@@ -51,8 +51,8 @@ def baemin_crawler():
     date_range_str = f'{start_date.strftime("%Y-%m-%d")}_{yesterday.strftime("%Y-%m-%d")}'  
 
     # 미리 정의된 값들
-    ID = 'knockone11'
-    PW = 'shrdnjs11!!'
+    ID = '12345678'
+    PW = '12345678'
 
 
     # Chrome 드라이버 옵션 설정
