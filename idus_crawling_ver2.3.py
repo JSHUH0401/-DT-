@@ -9,7 +9,7 @@ Original file is located at
 
 ##########################사용자 다운로드 폴더 주소 입력###########################
 
-usersdownload_path = 'C:/Users/insung/Downloads/'
+usersdownload_path = 'C:/Users/01039499766/Downloads/'
 
 #############################################################################
 
@@ -46,8 +46,8 @@ def idus_crawler():
     driver = webdriver.Chrome(options=chrome_options)
 
     url = 'https://artist.idus.com/login?return=%252F'
-    ID = 'knockone11@naver.com'
-    PW = 'kk180813!'
+    ID = '12345678'
+    PW = '12345678'
 
     # 아이디어스 사이트로 이동
     driver.get(url)
