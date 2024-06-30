@@ -9,7 +9,7 @@ Original file is located at
 
 ##########################사용자 다운로드 폴더 주소 입력###########################
 
-usersdownload_path = 'C:/Users/insung/Downloads/'
+usersdownload_path = 'C:/Users/01039499766/Downloads/'
 
 #############################################################################
 
@@ -59,8 +59,8 @@ day_list = [date.day for date in date_list]
 date_range_str = f'{start_date.strftime("%Y-%m-%d")}_{yesterday.strftime("%Y-%m-%d")}'
 
 # 아이디와 비밀번호 입력
-ID = 'b33482'
-PW = 'kk180813!'
+ID = '12345678'
+PW = '12345678'
 
 
 # Chrome 드라이버 옵션 설정
